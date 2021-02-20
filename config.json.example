@@ -1,5 +1,9 @@
 {
   "informationUrl": "https://wikidevi.com/wiki/Technicolor_TC4400",
   "username": "",
-  "password": ""
+  "password": "",
+  "influxdb": {
+    "database": "cablemodem",
+    "host": "localhost"
+  }
 }
